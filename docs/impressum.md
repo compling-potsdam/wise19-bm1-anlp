@@ -27,3 +27,4 @@ Die Webseite enthält Verknüpfungen zu Webseiten Dritter (externe Links). Diese
 # Datenschutz
 
 Die Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Sollte der Diensteanbieter in irgendeiner Form Daten erheben unterliegt dies dessen Datenschutzvereinbarung.
+
