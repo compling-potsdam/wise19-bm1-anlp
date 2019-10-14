@@ -14,7 +14,7 @@ nav_order: 1
 | Office Hours | Thursdays, 1-2pm |
 | Class Hours  | Wednesdays, 4-6pm; Thursdays, 10-12            |
 | Class Room   | 2.14.2.22; 2.14.0.09                          |
-| Class Website| [on github](https://compling-potsdam.github.io/wise19-bm1-anlp/), MOODLE SITE
+| Class Website| [on github](https://compling-potsdam.github.io/wise19-bm1-anlp/) || [on moodle](https://moodle2.uni-potsdam.de/course/view.php?id=22033)
 
 
 
@@ -43,6 +43,11 @@ I will mostly follow these textbooks:
 
 * Dan Jurafsky & James H. Martin, Speech and Language Processing, 3rd edition (draft [available online](https://web.stanford.edu/~jurafsky/slp3/). Rerences to this are written as `JM.3.i.k` in the Schedule, with `i` being the chapter.
 * Jacob Eisenstein, Introduction to Natural Language Processing, MIT Press (draft [available online](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)). Referred to as `E.chapter`.
+
+Also useful as background reading:
+
+* Yoav Goldberg, Neural Network Methods for Natural Language Processing, Morgan & Claypoole, 2017  (In the library; will try to get them to buy e-book version.)
+
 
 
 ## Requirements
