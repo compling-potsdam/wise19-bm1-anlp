@@ -14,7 +14,7 @@ nav_order: 1
 | Office Hours | Thursdays, 1-2pm |
 | Class Hours  | Wednesdays, 4-6pm; Thursdays, 10-12            |
 | Class Room   | 2.14.2.22; 2.14.0.09                          |
-| Class Website| [on github](https://compling-potsdam.github.io/wise19-bm1-anlp/) || [on moodle](https://moodle2.uni-potsdam.de/course/view.php?id=22033)
+| Class Website| [on github](https://compling-potsdam.github.io/wise19-bm1-anlp/); [on moodle](https://moodle2.uni-potsdam.de/course/view.php?id=22033)
 
 
 
