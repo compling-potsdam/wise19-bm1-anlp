@@ -59,7 +59,7 @@ To be admitted to the module exam, you need to pass the course. For this, we wil
 ### Module grade
 The grade will be based on a collaborative final project, to be completed during the semester break. There are four graded deliverables for this project:
 
-1. a planning paper(individual)
+1. a planning paper (individual)
 2. a project presentation (group)
 3. the implemented project (group)
 4. a project report (individual)
