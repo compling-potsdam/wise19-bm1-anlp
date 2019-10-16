@@ -12,7 +12,7 @@ nav_order: 2
 * Dan Jurafsky & James H. Martin, Speech and Language Processing, 3rd edition (draft [available online](https://web.stanford.edu/~jurafsky/slp3/). Rerences to this are written as `JM.3.i.k` in the Schedule, with `i` being the chapter.
 * Jacob Eisenstein, Introduction to Natural Language Processing, MIT Press (draft [available online](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)). Referred to as `E.i.j`, where `i` is the chapter number (and `j`, if present, the subsection number).
 
-The slides will be linked off this page, after class.
+The slides will be [here](https://github.com/compling-potsdam/wise19-bm1-anlp/tree/master/slides), after class.
 
 |      Week|      Date|     Theme|     Focus|  Readings|Assignment|
 |----------|----------|----------|----------|----------|----------|
