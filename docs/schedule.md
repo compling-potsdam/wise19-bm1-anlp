@@ -17,7 +17,7 @@ The slides will be [here](https://github.com/compling-potsdam/wise19-bm1-anlp/tr
 |      Week|      Date|     Theme|     Focus|  Readings|Assignment|
 |----------|----------|----------|----------|----------|----------|
 |         1|2019-10-16|          |     Intro|       E.1|          |
-|          |2019-10-17|          |Probability|https://mml-book.github.io|          |
+|          |2019-10-17|          |Probability|<https://mml-book.github.io> ; [Sharon Golwater's tutorial](https://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf)|          |
 |         2|2019-10-23|Words, Representations|words, relations|    JM-3.6|A1 released|
 |          |2019-10-24|          |words, embeddings|JM-3.6,  E.3.3.4, E.14.5-6|          |
 |         3|2019-10-30|Sequences I|   n-grams|    JM-3.3|          |
