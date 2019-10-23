@@ -41,7 +41,7 @@ and more
 
 I will mostly follow these textbooks:
 
-* Dan Jurafsky & James H. Martin, Speech and Language Processing, 3rd edition (draft [available online](https://web.stanford.edu/~jurafsky/slp3/). Rerences to this are written as `JM.3.i.k` in the Schedule, with `i` being the chapter.
+* Dan Jurafsky & James H. Martin, Speech and Language Processing, 3rd edition (draft [available online](https://web.stanford.edu/~jurafsky/slp3/). Rerences to this are written as `JM-3.i.k` in the Schedule, with `i` being the chapter.
 * Jacob Eisenstein, Introduction to Natural Language Processing, MIT Press (draft [available online](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)). Referred to as `E.chapter`.
 
 Also useful as background reading:
