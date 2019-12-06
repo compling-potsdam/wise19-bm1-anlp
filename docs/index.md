@@ -46,7 +46,7 @@ I will mostly follow these textbooks:
 
 Also useful as background reading:
 
-* Yoav Goldberg, Neural Network Methods for Natural Language Processing, Morgan & Claypoole, 2017  (In the library; will try to get them to buy e-book version.)
+* Yoav Goldberg, Neural Network Methods for Natural Language Processing, Morgan & Claypoole, 2017  (If you are on the UP network, you can download this from [here](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037).)
 
 
 
